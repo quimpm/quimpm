@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**quimpm/quimpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=quimpm&show_icons=true&theme=react">
+    <img src="https://github-readme-stats.vercel.app/api?username=quimpm&show_icons=true&theme=react" />
+  </a> 
+</p>
 
-Here are some ideas to get you started:
+My name is Joaquim Picó Mora, currently I'm studing a Computer Engineering degree at Universitat de Lleida and working in Lleida.net as a Junior R&D Technician.
+Feel free to poke arround through my repos and also to give me some stars :star:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Software Development
+- 🌱 I’m allways learning
+- 📫 How to reach me: quimpm99@gmail.com
+
