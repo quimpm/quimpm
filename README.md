@@ -7,7 +7,7 @@ Feel free to poke arround through my repos and also to give me some stars :star:
 - 🌱 I’m allways learning
 - 📫 How to reach me: quimpm99@gmail.com
 
-<table style="width:100%" align="center">
+<table style="width:100%; border: none;" align="center">
   <tr style="width:100%" align="center">
     <td style="width:100%" align="center">
       <p style="width:100%">
