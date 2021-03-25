@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 My name is Joaquim Picó Mora, currently I'm studing a Computer Engineering degree at Universitat de Lleida and working in Lleida.net as a Junior R&D Technician.
-Feel free to poke around through my repos and also to give me some stars :star:
+Feel free to poke around through my repos and also to give me some stars :star: :grin:
 
 - 🔭 I’m currently working on Software Development
-- 🌱 I’m allways learning
+- 🌱 I’m allways learning 
 - 📫 How to reach me: quimpm99@gmail.com
 
 <table style="width:100%; border: none;" align="center">
