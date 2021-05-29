@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Joaquim Picó Mora, currently I'm studing a Computer Engineering degree at Universitat de Lleida and working in Lleida.net as a Junior R&D Technician.
+My name is Joaquim Picó Mora, currently I'm studing a Computer Engineering degree at Universitat de Lleida.
 Feel free to poke around through my repos and also to give me some stars :star: :grin:
 
 - 🔭 I’m currently working on Software Development
